@@ -1,1 +1,9 @@
+Basically, it's a Supernatural Wikipedia Page project, created using only HTML.
+A few of its features include design without CSS, alignement, etc.
+Contains all the features of the Wikipedia Page & many more. As a beginner, this is a fun,
+exciting, and challenging project that I personally enjoyed making with any help of CSS.
+For this project there are no specific working principles, but as a habit,
+I leave a little note in every project stating the working principle,  and so here it is.
 
+This is the basic working principle & personal note on this Web Dev Project:)
+/////////////////////////////////////////////////////////////////////////////////////////////////
